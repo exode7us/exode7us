@@ -55,36 +55,7 @@ Chemical test, actually have Acid-Titulation module, due to solicitation , we wi
 🔗 Repo: https://github.com/exode7us/project  
 🌐 Demo: https://demo-link.com  
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=exode7us&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exode7us&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
----
-
-## 🧪 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=exode7us&theme=tokyonight&hide_border=true" />
-
-</div>
----
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=exode7us&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
 
 ---
 
