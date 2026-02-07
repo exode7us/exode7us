@@ -1,97 +1,79 @@
-# div align=center
+<div align="center">
 
-# 👋 Hey, I'm Exode7us
+# Exode7us
 
-### 💻 Full Stack Developer  Software Engineer  
-🚀 Building scalable, clean and impactful solutions  
-📍 LATAM  Open to remote opportunities
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=9CA3AF&center=true&vCenter=true&width=520&lines=Full+Stack+Engineer;Clean+Architecture;Scalable+Systems;Always+Shipping" />
 
-img src=httpsreadme-typing-svg.demolab.comfont=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node+%7C+PostgreSQL;Clean+Code+%7C+Scalable+Apps;Always+Learning+New+Tech alt=Typing SVG 
+<br/>
 
-div
+<img src="https://komarev.com/ghpvc/?username=exode7us&label=views&color=0f172a&style=flat" />
 
----
-
-## 🧠 About Me
-
-- 🔥 Passionate about building real-world applications
-- 🧩 Strong focus on clean architecture & best practices
-- ⚙️ Love working with modern JavaScript ecosystems
-- 📈 Always improving performance, UX and code quality
-- 🌱 Currently learning advanced backend & system design
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### About
 
-### 🚀 Frontend
-![HTML5](httpsimg.shields.iobadgeHTML5-blackstyle=for-the-badge&logo=html5)
-![CSS3](httpsimg.shields.iobadgeCSS3-blackstyle=for-the-badge&logo=css3)
-![JavaScript](httpsimg.shields.iobadgeJavaScript-blackstyle=for-the-badge&logo=javascript)
-![React](httpsimg.shields.iobadgeReact-blackstyle=for-the-badge&logo=react)
-![Next.js](httpsimg.shields.iobadgeNext.js-blackstyle=for-the-badge&logo=next.js)
-![Tailwind](httpsimg.shields.iobadgeTailwindCSS-blackstyle=for-the-badge&logo=tailwind-css)
-
-### 🧠 Backend
-![Node.js](httpsimg.shields.iobadgeNode.js-blackstyle=for-the-badge&logo=node.js)
-![Express](httpsimg.shields.iobadgeExpress-blackstyle=for-the-badge&logo=express)
-![PostgreSQL](httpsimg.shields.iobadgePostgreSQL-blackstyle=for-the-badge&logo=postgresql)
-![MongoDB](httpsimg.shields.iobadgeMongoDB-blackstyle=for-the-badge&logo=mongodb)
-
-### ⚙️ Tools & DevOps
-![Git](httpsimg.shields.iobadgeGit-blackstyle=for-the-badge&logo=git)
-![GitHub](httpsimg.shields.iobadgeGitHub-blackstyle=for-the-badge&logo=github)
-![Docker](httpsimg.shields.iobadgeDocker-blackstyle=for-the-badge&logo=docker)
-![Linux](httpsimg.shields.iobadgeLinux-blackstyle=for-the-badge&logo=linux)
+Full Stack Engineer focused on **clean architecture**, **scalable systems** and **high-quality code**.  
+Building production-ready solutions with modern JavaScript ecosystems.  
+Open to **remote opportunities**.
 
 ---
 
-## 📌 Featured Projects
+### Stack
 
-🚀 Project Name  
- Short description of what it does and the problem it solves  
-🔗 Repo httpsgithub.comexode7usproject  
-🌐 Demo httpsdemo-link.com  
+**Frontend**  
+`HTML` `CSS` `JavaScript` `React` `Next.js` `Tailwind`
 
-🔥 Another Project  
- Highlight tech stack, architecture or special features  
-🔗 Repo httpsgithub.comexode7usproject  
+**Backend**  
+`Node.js` `Express` `PostgreSQL` `MongoDB`
 
-💡 (Pin these repos in your profile)
+**DevOps / Tools**  
+`Git` `Docker` `Linux`
 
 ---
 
-## 📊 GitHub Stats
+### Activity
 
-div align=center
+<div align="center">
 
-img src=httpsgithub-readme-stats.vercel.appapiusername=exode7us&show_icons=true&theme=tokyonight&hide_border=true height=165 
-img src=httpsgithub-readme-stats.vercel.appapitop-langsusername=exode7us&layout=compact&theme=tokyonight&hide_border=true height=165 
+<img src="https://github-readme-stats.vercel.app/api?username=exode7us&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&icon_color=9CA3AF&text_color=9CA3AF" height="150" />
 
-div
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exode7us&layout=compact&hide_border=true&bg_color=00000000&text_color=9CA3AF" height="150" />
 
----
+</div>
 
-## 🧪 GitHub Streak
+<br/>
 
-div align=center
-img src=httpsstreak-stats.demolab.comuser=exode7us&theme=tokyonight&hide_border=true 
-div
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=exode7us&theme=github-compact&hide_border=true&bg_color=00000000" />
 
-## 🌐 Connect With Me
-
-- 💼 LinkedIn httpslinkedin.comintuusuario
-- 🌐 Portfolio httpstuportfolio.dev
-- 📧 Email tuemail@gmail.com
+</div>
 
 ---
 
-div align=center
+### Contributions
 
-### ⚡ “Code. Learn. Improve. Repeat.”
+<div align="center">
 
-⭐ If you like my work, feel free to follow or star my repositories
+<img src="https://github.com/exode7us/exode7us/blob/output/github-contribution-grid-snake.svg" />
 
-div
+</div>
+
+---
+
+### Connect
+
+- LinkedIn → https://linkedin.com/in/tuusuario  
+- Portfolio → https://tuportfolio.dev  
+- Email → tuemail@gmail.com  
+
+---
+
+<div align="center">
+
+`Code. Learn. Improve. Repeat.`
+
+</div>
+
