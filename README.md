@@ -52,7 +52,9 @@
 This project search's reduces inequality into most poor people in the country, giving a real solution
 for the insufficient laboratorys in the country, in this software you can find a lot of modules about
 Chemical test, actually have Acid-Titulation module, due to solicitation , we will continue working in this.
+
 🔗 Repo: https://github.com/exode7us/project  
+
 🌐 Demo: https://demo-link.com  
 
 
